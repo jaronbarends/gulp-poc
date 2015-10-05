@@ -1,0 +1,23 @@
+{
+  "title": "Gulp-poc",
+  "name": "Gulp-poc",
+  "description": "pocje met gulp",
+  "repository": {
+    "type": "git",
+    "private": true
+  },
+  "version": "0.1.0",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.2",
+    "gulp-jshint": "^1.11.2",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-watch": "^4.3.5",
+    "jshint-stylish": "^2.0.1"
+  }
+}

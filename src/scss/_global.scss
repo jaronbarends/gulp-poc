@@ -1,0 +1,16 @@
+body {
+	background: red;
+	margin: 0;
+
+	&.iets {
+		background: yellow;
+		margin: 1em;
+		padding: 0;
+	}
+
+	p {
+		background: #fff;
+		filter: grayscale(100%);//check -webkit prefix
+	}
+}
+
